@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/zbmpsszw/public_html/
+    - /bin/cp -R * $DEPLOYPATHฟ
